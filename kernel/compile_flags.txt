@@ -1,0 +1,6 @@
+-ffreestanding
+-fno-stack-protector
+-mno-red-zone
+-nostdlib
+-Wall
+-Wextra
